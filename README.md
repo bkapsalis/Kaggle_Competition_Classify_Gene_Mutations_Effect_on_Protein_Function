@@ -17,7 +17,7 @@
   - Data needs to be in the same directory as the jupyter notebook. 
 
 
-  ### To run code without additional biological data:
+  ### To run code with additional biological data:
 
   -  The data can be downloaded directly form Kaggle at https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
   - Clone notebook above.
