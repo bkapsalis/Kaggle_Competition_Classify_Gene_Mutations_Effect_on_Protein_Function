@@ -2,7 +2,7 @@
 
   Which of the thousands of mutations in a cancer tumor contribute to the tumor growth. This project and Kaggle competition     will uses machine learning techniques to evaluate vast amounts of an expert-annotated knowledge base of information about     each mutation to determine which of the thousands of mutations cause tumor growth.(1)
   
-  Click above Capstone.pdf to see report.
+  Click above [Capstone.pdf](https://github.com/bkapsalis/Kaggle_Competition_Classify_Gene_Mutations_Effect_on_Protein_Function/blob/master/Capstone.pdf) to see report.
   Click above Capstone_mlnd_Unabriged_all_code_very_long.ipynd to see report including all code.
 
 
