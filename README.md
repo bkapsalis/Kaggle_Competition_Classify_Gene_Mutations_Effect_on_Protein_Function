@@ -29,7 +29,7 @@
 
   - An additional library was used http://biopython.org/
 
-  biopython was used and from Bio 'Entrez' was imported
+  biopython was used and from Bio 'Entrez' was imported.
 
   This was difficult to set up.
 
@@ -40,8 +40,4 @@
   Gene id was needed to search the ncbi website. The given data used gene name. Luckily  the biological website david.com has a conversion function. So I created a uniq_genes.csv  up loaded it to the david site and it covered the gene names to gene id and it was downloaded to my computer as gene_ids.csv. This file is also included in my submission. The Entrez web site were I did a search required my email address. This is in my code. If you choose to run the additional biology code you may need to change this to your email. I think it should work with my email.
 
   The david_full.csv, uniq_genes.csv and the input data file(from kaggle, the address is above) all need to be in the same directory as the jupyter notebook. 
-
-
-
-
 
