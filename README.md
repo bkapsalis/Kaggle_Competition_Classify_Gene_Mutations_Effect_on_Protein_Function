@@ -1,4 +1,4 @@
-  ## The First Step in Oncogenicity Determination - Predict the effect of Genetic Variants on Protein Function
+  ## The First Step in Oncogenicity Determination - Predict the effect of Genetic Variants on Protein Function of a biopsy.
 
   Which of the thousands of mutations in a cancer tumor contribute to the tumor growth. This project and Kaggle competition     will uses machine learning techniques to evaluate vast amounts of an expert-annotated knowledge base of information about     each mutation to determine which of the thousands of mutations cause tumor growth.(1)
   
